@@ -14,3 +14,4 @@ spec:
         backend:
           serviceName: rest-jscreditscore-svc07
           servicePort: 8107
+          
